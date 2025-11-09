@@ -1,0 +1,7 @@
+{
+  "name": "AI SEO Analyzer",
+  "description": "An AI-powered tool that analyzes a given URL and provides a comprehensive SEO report with scores and actionable feedback on title tags, meta descriptions, content, and more.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
