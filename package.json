@@ -1,0 +1,11 @@
+{
+  "name": "ai-seo-analyzer",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "echo \"To start the app on Windows, double-click the 'start.bat' file. No commands are needed.\"",
+    "dev": "echo \"This app runs directly in the browser. Double-click 'start.bat' instead.\"",
+    "build": "echo \"This app does not require a build step.\""
+  }
+}
